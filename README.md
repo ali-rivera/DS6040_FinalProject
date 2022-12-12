@@ -1,5 +1,4 @@
 # DS6040_FinalProject
-Metadata
 ## Title: Wine Quality Analysis
 ### Authors: Rory Black, Gargee Jagtap, Ali Roth
 
