@@ -4,9 +4,6 @@ Metadata
 ### Authors: Rory Black, Gargee Jagtap, Ali Roth
 
 # Synopsis
-
-![image](https://negativespace.co/wp-content/uploads/2020/07/negative-space-wine-bottles-and-glasses-1062x708.jpg)
-
 <img
   src="https://negativespace.co/wp-content/uploads/2020/07/negative-space-wine-bottles-and-glasses-1062x708.jpg"
   alt="image of wine"
@@ -22,7 +19,7 @@ The Data for this project comes from wines in the northern region of Portugal an
 To run this code, you need to have python installed on your machine. Start by downloading the code file, and the 2 wine csv files: WineQuality-RedWine.csv, and WineQuality-WhiteWine.csv. Make sure all 3 of these files are in the same folder on your computer. 
 After doing the above, ensure that all the libraries at the top of the code file are installed on your machine. If not, install them by typing the following command in a code cell:
 
-pip install *library*
+`pip install *library*`
 
 The following libraries are needed: 
 - numpy 
