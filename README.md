@@ -1,12 +1,14 @@
 # DS6040_FinalProject
 Metadata
-##Title: Wine Quality Analysis
-###Authors: Rory Black, Gargee Jagtap, Ali Roth
+## Title: Wine Quality Analysis
+### Authors: Rory Black, Gargee Jagtap, Ali Roth
 
 # Synopsis
 
+![image](https://negativespace.co/wp-content/uploads/2020/07/negative-space-wine-bottles-and-glasses-1062x708.jpg)
+
 <img
-  src="http://url/to/img.png](https://negativespace.co/wp-content/uploads/2020/07/negative-space-wine-bottles-and-glasses-1062x708.jpg"
+  src="https://negativespace.co/wp-content/uploads/2020/07/negative-space-wine-bottles-and-glasses-1062x708.jpg"
   alt="image of wine"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
