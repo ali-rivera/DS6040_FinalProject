@@ -5,11 +5,12 @@ Metadata
 
 # Synopsis
 
-
+<img
+  src="http://url/to/img.png](https://negativespace.co/wp-content/uploads/2020/07/negative-space-wine-bottles-and-glasses-1062x708.jpg"
+  alt="image of wine"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 Image from: https://negativespace.co/wine-tasting/
-
-![alt text]([http://url/to/img.png](https://negativespace.co/wp-content/uploads/2020/07/negative-space-wine-bottles-and-glasses-1062x708.jpg))
 
 This notebook contains an analysis and Bayesian Machine Learning methods to predict wine quality based on the physicochemical properties included in the dataset. This artifact was produced for DS6040 at the University of Virginia, taught by Dr. Don Brown in the Fall of 2022. The 3 contributors are students in the Residential Masters of Science in Data Science at the University’s School of Data Science.
 The Data for this project comes from wines in the northern region of Portugal and was downloaded from Kaggle on November 29, 2022. The files, along with more information on the data collection and variables included, can be found here: https://www.kaggle.com/datasets/rajyellow46/wine-quality. Please note that this data originates from the UCI Machine Learning Repository.
