@@ -22,13 +22,13 @@ After doing the above, ensure that all the libraries at the top of the code file
 `pip install *library*`
 
 The following libraries are needed: 
-- numpy 
-- pandas 
-- matplotlib 
-- pymc 
-- arviz
-- sklearn
-- seaborn 
+- `numpy` 
+- `pandas` 
+- `matplotlib` 
+- `pymc` 
+- `arviz`
+- `sklearn`
+- `seaborn` 
 
 Once all the libraries have been installed, you can now run the notebook.
 
